@@ -1,0 +1,56 @@
+Opp	AvgPTS	state
+ATL	21.75	georgia
+BOS	29.25	massachusetts
+BRK	21.67	'new york'
+CHA	30	'north carolina'
+CHI	28	illinois
+CLE	27.67	ohio
+DAL	28	texas
+DEN	23.5	colorado
+DET	29	michigan
+GSW	28	california
+HOU	35	texas
+IND	21	indiana
+LAC	30	california
+LAL	35.5	california
+MEM	19	tennessee
+MIL	27.5	wisconsin
+MIN	21	minnesota
+NOH	30	louisiana
+NYK	27.67	'new york'
+OKC	34	oklahoma
+ORL	28.67	florida
+PHI	23.75	pennsylvania
+PHO	22	arizona
+POR	22.5	oregon
+SAC	30	california
+SAS	23	texas
+UTA	31	utah
+WAS	24.33	washington
+NA 	0	alabama 
+NA	0	arkansas
+NA	0	connecticut
+NA	0	delaware
+NA	0	'district of columbia'
+NA	0	idaho
+NA	0	iowa
+NA	0	kansas
+NA	0	kentucky
+NA	0	maine
+NA	0	maryland
+NA	0	mississippi
+NA	0	missouri
+NA	0	montana
+NA	0	nebraska
+NA	0	nevada
+NA	0	'new hampshire'
+NA	0	'new jersey'
+NA	0	'new mexico'
+NA	0	'north dakota'
+NA	0	'rhode island'
+NA	0	'south carolina'
+NA	0	'south dakota'
+NA	0	vermont
+NA	0	virginia
+NA	0	'west virginia'
+NA	0	wyoming

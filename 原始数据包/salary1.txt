@@ -1,0 +1,31 @@
+DATA LIST FILE= "d:/data/salary.sav"  free (",")
+/ City Work Price Salary  .
+
+VARIABLE LABELS
+City "City" 
+ Work "Work" 
+ Price "Price" 
+ Salary "Salary" 
+ .
+
+VALUE LABELS
+/
+City  
+1 "Amsterdam" 
+ 2 "Bombay" 
+ 3 "Chicago" 
+ 4 "Dublin" 
+ 5 "Frankfurt" 
+ 6 "London" 
+ 7 "LosAngeles" 
+ 8 "Luxembourg" 
+ 9 "MexicoCity" 
+ 10 "NewYork" 
+ 11 "Paris" 
+ 12 "Singpore" 
+ 13 "Sydney" 
+ 14 "Taipei" 
+ 15 "Tokyo" 
+.
+
+EXECUTE.
